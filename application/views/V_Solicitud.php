@@ -137,10 +137,10 @@
                             </div>
                         </div>
                         <div class="mdl-card">
-                            <div class="mdl-card__actions">
+                            <!-- <div class="mdl-card__actions">
                                 <h5>Reporte General de Registros</h5>
                                 <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect js-excel" id="excel1">Descargar Excel</button>
-                            </div>
+                            </div> -->
                         </div>
                         <div id="reporte" class="js-table" style="display:none">
                             <h2>Oportunidades Registradas </h2>
